@@ -1,6 +1,7 @@
 #!/bin/sh
 
-set -x
+# Turn off debugging for now ..
+#set -x
 set -e
 
 . json_dd_reader.sh
